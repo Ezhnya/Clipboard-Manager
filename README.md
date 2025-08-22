@@ -62,7 +62,7 @@ You can tweak settings inside config.py:
 
 👤 Author
 
-Developed with ❤️ by Ezhnya
+Developed with by Ezhnya
 GitHub | Telegram
 
 📜 License
