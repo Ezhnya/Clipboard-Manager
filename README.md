@@ -60,10 +60,10 @@ You can tweak settings inside config.py:
 -Global hotkey (default: Ctrl+Shift+V)
 -Theme (dark / light)
 
-👤 Author
+## 👤 Author
 
-Developed with by Ezhnya
-GitHub | Telegram
+Developed with by Ezhnya 
+🌐[GitHub](https://github.com/Ezhnya) |🤖[Telegram Channel](https://t.me/+2MllMZSL7EQyNDA6)
 
 📜 License
 
